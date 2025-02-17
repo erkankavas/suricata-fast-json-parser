@@ -1,3 +1,8 @@
+#Suricata Fast Reader
+#No need any 3rd party library.
+
+#Just run python3 fast-suricata.py
+
 import re
 from collections import deque
 
